@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to several new laws and orders made by the rules of Boston in New-England the tenth day of the eight moneth, 1677 by G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40116</idno>
+            <idno type="STC">Wing F1744</idno>
+            <idno type="STC">ESTC R6838</idno>
+            <idno type="EEBO-CITATION">12911844</idno>
+            <idno type="OCLC">ocm 12911844</idno>
+            <idno type="VID">95339</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40116)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95339)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 982:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to several new laws and orders made by the rules of Boston in New-England the tenth day of the eight moneth, 1677 by G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Massachusetts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95339:1"/>
+            <pb facs="tcp:95339:1" rendition="simple:additions"/>
+            <p>AN ANSWER To ſeveral NEW Laws and Orders Made by the Rulers of Boſton IN New-England The Tenth Day of the Eighth Moneth, 1677.</p>
+            <p>By G. F.</p>
+            <p>Printed in the Year 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95339:2"/>
+            <pb n="3" facs="tcp:95339:2"/>
+            <head>An Anſwer to ſeveral New Laws and Orders made by the Rulers of <hi>Boſton,</hi> &amp;c.</head>
+            <p>WE have ſeen ſeveral Laws and Orders, made at the ſecond Seſſions of the General Court at <hi>Boſton,</hi> and publiſhed the tenth of the eighth moneth, 1677. by their Order, by <hi>Edward Rowſon</hi> Secretary; (viz.)</p>
+            <p>Firſt, <hi>Wherein we take notice of ſome things as followeth:</hi>
+            </p>
+            <p>And <hi>firſt</hi> you ſay, <hi>Many ſecret Attempts has been by evil-mind<g ref="char:EOLhyphen"/>ed Perſons to Fire the Town of</hi> Boſton, <hi>tending to the Deſtruction, &amp;c. This Court doth Account it their Duty, to uſe all Lawful Means to Diſcover ſuch Perſons, and prevent the like for time to come.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> But what perſons have ye diſcovered by your Act or Order? for hath it not been the Hand of the Almighty God, that hath pleaded with you, with Fire and Sword, and other Judgments, and yet you will neither hear nor ſee? Have you forgotten your Hot Irons, by which you ſtigmatized and bran<g ref="char:EOLhyphen"/>ded? Do you not think God will pay your Debts, and with full Intereſt in the end? And do you think that your Acts and Laws will keep off the Lord from pleading with you by Fire, and his Judgments? And do you think, that all your People taking the <hi>Oath of Fidelity</hi> to you and your Country, will ſtop the Judg<g ref="char:EOLhyphen"/>ments of God, or bring more upon you, who make the Com<g ref="char:EOLhyphen"/>mand of Chriſt void, and of none effect your ſelves, and make Laws to compel others to do the ſame, as in <hi>Mat.</hi> 5. <hi>James</hi> 5. which ſaith, <hi>Swear not at all,</hi> with a Penalty, and that they do go into Evil and Condemnation that do Swear; a ſad Penalty,
+<pb n="4" facs="tcp:95339:3"/>even Condemnation? Or will you and your Prieſts ſay, That there muſt be a Meaning to theſe words of Chriſt and the Apo<g ref="char:EOLhyphen"/>ſtle, and though they commanded not to Swear, yet they did not mean as they ſpoke, there muſt be a Meaning given to them by you &amp; your Prieſts; then would not you think it ſtrange that all your people, that you would have to take the <hi>Oath of Fidelity</hi> to the Country and you, that they ſhould obſerve none of your Laws and Orders, but ſay, <hi>You do not mean as you ſpeak, but there muſt be a Meaning given to them?</hi> Then would not this throw all your Laws, Acts &amp; Orders away, and render you to be a double<g ref="char:EOLhyphen"/>tongu'd People, to ſpeak one thing, and mean another? if you count this wrong doing or ſaying, do not you ſerve Chriſt and his Apoſtle, ſo, who ſaith, <hi>Swear not at all.</hi>
+            </p>
+            <p>For is not your Law and Order of your Court, <hi>That the Law to require all perſons, as well Inhabitants as Strangers, that hath not taken the Oath, to take the Oath of Fidelity to the Country, be revived and put in practice through this Juriſdiction, &amp;c. And that if any Officers, as Select Men, Conſtables or Tything-men, that is intruſted with the Execution of this Order, do neglect his or their Duty therein, that they be fined not exceeding</hi> 5 l. <hi>for one Offence, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Would the Reader think, that theſe are the <hi>New-Eng<g ref="char:EOLhyphen"/>land</hi> refined Profeſſors, which fled out of <hi>Old England,</hi> to <hi>New-England,</hi> upon the account of Religion, that are now fore<g ref="char:EOLhyphen"/>ing Inhabitants, and Strangers, and their Officers thus to tranſ<g ref="char:EOLhyphen"/>greſs and make null the expreſs Command of Chriſt Jeſus with ſuch Penalties? For Chriſt ſaith, <hi>But I ſay unto you, Swear not at all, but let your Communication be yea, yea, and nay, nay; for whatſoever is [added] more than theſe, it cometh of Evil:</hi> and is not this a Goſpel Command of Chriſt? ſee <hi>Mat.</hi> 5.9, 34, 37. And <hi>Above all things, my Brethren, Swear not, neither by Heaven, nei<g ref="char:EOLhyphen"/>ther by the Earth, neither by any other Oath; but let your yea be yea, and your nay, nay, leſt you fall into Condemnation:</hi> And is not here a Penalty with a Witneſs for breaking the Goſpel Command of Chriſt in the New Covenant, which is not according to the Old; for by the Law of God in the Old Covenant they were to ſwear truly, before the Goſpel times, that Chriſt came in the fleſh; and all vain, and frivolous, and falſe Swearing was forbidden;
+<pb n="5" facs="tcp:95339:3"/>but Chriſt and the Apoſtle forbid all Swearing. But what is <hi>New-England</hi>'s Penalty upon Strangers and Inhabitants, that do not ſwear, &amp; take the <hi>Oath of Fidelity,</hi> &amp;c? and what is the Penal<g ref="char:EOLhyphen"/>ty upon the Officers, as Conſtables, Tything-men, &amp;c. that do not take this Oath? and <hi>if they neglect their Duty to you,</hi> and obey Chriſt, <hi>they ſhall be fined,</hi> you ſay, <hi>not exceeding</hi> 5 <hi>l.</hi> So by your Law and Order, every Officer ſhall be fined 5 l. for keeping the Goſpel Command of Chriſt; and all Strangers and Inhabitants, which keep the Goſpel Command of Chriſt, and dare not ſwear, and break it, but refuſe to ſwear, they, you ſay, ſhall be proceed<g ref="char:EOLhyphen"/>ed againſt as your Laws &amp; Commands direct, contrary to Chriſt.</p>
+            <p>And further, you ſay, Your Court doth declare, <hi>That all ſuch Refuſers to take the ſaid Oath, ſhall not have the benefit of our Laws to implead, ſue or recover any Debts in any Court or Courts within this Juriſdiction, or have Protection from this Government, while they continue in ſuch obſtinate Refuſal (to wit) to Swear, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> So the Swearer, which breaks the Goſpel Command of Chriſt, muſt have the benefit of your Law, and Protection (and not be counted obſtinate) yea, and ſuch as goes into Evil &amp; Con<g ref="char:EOLhyphen"/>demnation: And they that keep the Goſpel Command of Chriſt and the Apoſtle, ſhall have no Benefit nor Protection among you, no not in any of your Courts, to ſue for his juſt Debts. And this Law of yours muſt be printed and publiſhed by your Order; is not this the Power of the Spirit of the Beaſt, that acts you, and not from the Spirit of Chriſt Jeſus, which compels all to bow, and to receive his Mark, and to diſobey the Goſpel Command of Chriſt Jeſus; and that ſuch as cannot bow, and diſobey the Com<g ref="char:EOLhyphen"/>mand of Chriſt their Lord and Saviour, they ſhall have no Pro<g ref="char:EOLhyphen"/>tection among you by your Government, nor no benefit of your Laws, to get their juſt Debts, in any Courts within your Juriſdi<g ref="char:EOLhyphen"/>ction. Well, bleſſed be the Lord, that the Horn of this Beaſt reaches no further than his own Juriſdiction. Oh! how dare you name the Name of Chriſt in your Mouthes, when you thus trample his Command under your Feet, and fine your Officers 5 l. apiece for their neglecting to tender the Oath to the Inhabi<g ref="char:EOLhyphen"/>tants and Strangers to ſwear, and they that will not break the Command of Chriſt ſhall not have Right nor Juſtice, neither in
+<pb n="6" facs="tcp:95339:4"/>your Courts, nor Protection in your Government: O unheard of Cruelty! did ever the Biſhops or Magiſtrates in Old <hi>Eng<g ref="char:EOLhyphen"/>land</hi> ſerve you ſo, before you fled into <hi>New-England?</hi> And is not this the power of the Beaſt and Whore, to compel all to bow and worſhip? What Scripture have you for your Rule and Practice herein? let us ſee Chapter and Verſe, or elſe for ſhame ſtop your Mouthes, and never tell of Scripture more to be your Rules, for where did ever the Apoſtles give forth any ſuch Com<g ref="char:EOLhyphen"/>mands or Orders to the <hi>Chriſtians,</hi> that <hi>people ſhould have no Be<g ref="char:EOLhyphen"/>nefit nor Protection except they would ſwear,</hi> and break Chriſt's Command: Is not this enough to bring the Vengeance of God from Heaven upon your Heads.</p>
+            <p>And your <hi>Additional Law concerning ſuch as Prophane the Sab<g ref="char:EOLhyphen"/>bath, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> But what it is that does prophane it, you do not de<g ref="char:EOLhyphen"/>clare it in your Additional Law.</p>
+            <p>And you ſay; <hi>That the Fines raiſed by the Penalty of this Law upon the Delinquents ſhall be brought to the County Treaſurer, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Where was it ever ordered by the Law of God, in the old Covenant, that Fines ſhould be laid on them that did prophane the Sabbath, and bring it to the Treaſurer, and he to give the Tything-men and Conſtable part of it, &amp;c? Were they not by the Law of God to be put outwardly to Death? And where did ever Chriſt and the Apoſtles lay a Fine upon any which did not keep the <hi>Jews</hi> Sabbath, that was given in the Old Covenant as a Sign? Were not Chriſt and his Diſciples accuſed for Sabbath-breakers, of that Sign, he, who was the Subſtance, and the Eter<g ref="char:EOLhyphen"/>nal Reſt? And if the <hi>Jews,</hi> for not keeping the Sabbath in the Old Covenant, dyed an Outward Death; do not they dye an E<g ref="char:EOLhyphen"/>ternal Death, that do not keep the Day of Chriſt, and that Eter<g ref="char:EOLhyphen"/>nal Sabbath in the New Covenant?</p>
+            <p>And did the <hi>Chriſtians</hi> in the New Covenant keep the Firſt Day of the Week, which Chriſt roſe on, and met of it? and is the Firſt day of the Week the <hi>Jews</hi> Seventh Day Sabbath, ſpo<g ref="char:EOLhyphen"/>ken of in the Old Covenant? And did the Apoſtles call the Firſt Day of the Week, which they met of, a Sabboth? and if ſo, let's ſee Chapter and Verſe where it is ſo called in the New Teſtament
+<pb n="7" facs="tcp:95339:4"/>by the Apoſtles. Now do not you imagine in your Evil Hearts, that we would have the Firſt Day of the Week prophaned, which Chriſt roſe of; we ſay, nay, we would not have that day propha<g ref="char:EOLhyphen"/>ned, nor ſo much as any other Day of the Week prophaned, but that God may alwayes be glorified.</p>
+            <p>But you that profeſs your ſelves <hi>Chriſtians,</hi> and yet walk like neither <hi>Jews</hi> nor <hi>Chriſtians,</hi> Law nor Goſpel, and perſecute others that would not do the ſame; what do you think will become of you, and what will be your End, for all your Perſecutions and Ba<g ref="char:EOLhyphen"/>niſhing, and Bloodſheddings, and Whippings, and Hangings, and Branding the Forehead with Hot Irons, and Cutting off Ears, and the Spoiling the Goods of the Servants of the Moſt High and Living God? Do not you think that God Almighty will reckon with you, as he did with <hi>Pharaoh, Herod, Jezabel,</hi> and the <hi>Jews</hi> and <hi>Judas</hi> for murdering and betraying Chriſt? Will not he at laſt pay you your Debt, as he did theſe, and give you your full Intereſt? For, with what meaſure you meaſure, will he meaſure to you again, good meaſure, ſhaken together, and running over; and therefore go learn this Leſſon, <hi>Do unto others as you would have them to do to you.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>The 18th of the 8th Moneth, 1678.</date>
+               </dateline>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
